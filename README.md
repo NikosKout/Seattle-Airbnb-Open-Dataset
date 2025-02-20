@@ -19,3 +19,7 @@ Random Forest Regression outperforms both models with a slight difference in com
 
 # Libraries Used
 Numpy, Pandas, Matplotlib, Seaborn, Sklearn (RandomForestRegressor, Lasso and XGBRegressor)
+
+# Acknowledgements
+1) Udacity DataScientist Nanodegree Program
+2) Kaggle
