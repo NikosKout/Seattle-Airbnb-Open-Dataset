@@ -17,6 +17,8 @@ This analysis will help us answer the following three questions:
 The models used for this project to help us determine the features of listings.csv and calendar.csv, are Lasso Regression, Random Forest Regression and XGBoost Regression.
 Random Forest Regression outperforms both models with a slight difference in comparison to the XGBoost.
 
+# Medium Short Analysis
+[https://medium.com/@Alipitos1/seattle-airbnb-open-dataset-crisp-dm-short-analysis-cdb5e3e6007d]
 # Libraries Used
 Numpy, Pandas, Matplotlib, Seaborn, Sklearn (RandomForestRegressor, Lasso and XGBRegressor)
 
